@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://ministerchief-ls-technologies.hf.space/static/images/logo.png" width="180" alt="LS Technologies Logo">
+<img src="https://ministerchief-ls-technologies.hf.space/static/images/logo.png" width="140" alt="LS Technologies Logo"> # TECHNOLOGIES
 
 ## Enterprise QR-Based Asset Management Platform
 
